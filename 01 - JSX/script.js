@@ -1,7 +1,7 @@
 /* 
   NOTE:
 
-  - React is a JavaScript library, and JSX is a JavaScript syntax extension that can be used with any JavaScript library.
+  - React is a JavaScript library, and JSX [JavaScript XML] is a JavaScript syntax extension that can be used with any JavaScript library.
   - Here the render function has props --> (what to insert, where to insert);
   - If the requirement is to use more than one HTML Elements, we wrap the whole code b/w <div>.
 */
